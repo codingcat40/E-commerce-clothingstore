@@ -4,7 +4,7 @@ import { Link, NavLink } from "react-router-dom";
 import { ShopContext } from "../context/ShopContext";
 
 const Navbar = () => {
-  const {showSearch, setShowSearch} = useContext(ShopContext);
+  const {setShowSearch} = useContext(ShopContext);
   const [visible, setVisible] = useState(false)
   return (
     <div className="flex flex-row items-center justify-between py-5 font-medium">
