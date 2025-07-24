@@ -1,4 +1,4 @@
-Front End
+<!--FOREVER Front End Development-->
 
 --> Collection page, Implemented Sort functionality(by price) for products, category and subcategory switching(Men, Women, Kids, upperwear, bottomwear, winterwear)
 
@@ -12,3 +12,8 @@ Front End
 --> completed cart implementation and now almost done working on checkout page 
 
 --> finished the checkout page and now also done with orders page
+
+-->  About Page, Contact Page
+
+
+<!-- With this I have finished working on front end for FOREVER -->
