@@ -17,3 +17,9 @@
 
 
 <!-- With this I have finished working on front end for FOREVER -->
+
+packages using:
+
+<!-- cors dotenv express jsonwebtoken mongoose multer nodemon razorpay stripe validator cloudinary bcrypt -->
+
+<!-- worked on user registration route, setup cloudinary, mongodb etc -->
