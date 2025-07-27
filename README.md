@@ -22,4 +22,7 @@ packages using:
 
 <!-- cors dotenv express jsonwebtoken mongoose multer nodemon razorpay stripe validator cloudinary bcrypt -->
 
-<!-- worked on user registration route, setup cloudinary, mongodb etc -->
+--> worked on user registration route, setup cloudinary, mongodb etc
+
+--> finshed the user login route
+--> started working on the product route
