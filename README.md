@@ -29,3 +29,7 @@ packages using:
 
 --> add product feature is implemented
 --> remove product, listing product, single product implemented
+--> admin authentication added
+
+
+<!-- here I have started working on UI for  Admin panel-->
