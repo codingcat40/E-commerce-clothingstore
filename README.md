@@ -28,3 +28,4 @@ packages using:
 <!-- --> started working on the product route -->
 
 --> add product feature is implemented
+--> remove product, listing product, single product implemented
