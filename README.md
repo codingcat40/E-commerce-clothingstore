@@ -25,4 +25,6 @@ packages using:
 --> worked on user registration route, setup cloudinary, mongodb etc
 
 --> finshed the user login route
---> started working on the product route
+<!-- --> started working on the product route -->
+
+--> add product feature is implemented
