@@ -40,4 +40,6 @@ packages using:
 -->  working on admin authentication
     --> finished Login Component with conditional rendering
     --> Finished Admin Authentication, used react toastify package for showing the error notifications. 
- <!-- working on local storage for admin login  -->
+    --> added local storage for admin login
+    --> added logout function
+<!-- working on UI for each route -->
