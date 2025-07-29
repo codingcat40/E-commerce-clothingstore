@@ -39,4 +39,5 @@ packages using:
 --> set up react router dom
 -->  working on admin authentication
     --> finished Login Component with conditional rendering
-    --> working on Admin Authentication
+    --> Finished Admin Authentication, used react toastify package for showing the error notifications. 
+ <!-- working on local storage for admin login  -->
