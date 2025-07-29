@@ -33,3 +33,7 @@ packages using:
 
 
 <!-- here I have started working on UI for  Admin panel-->
+
+--> setup admin panel folder, Implemented react router dom, Navbar etc.
+--> added google fonts for the text
+--> 
