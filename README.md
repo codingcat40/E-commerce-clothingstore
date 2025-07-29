@@ -36,4 +36,7 @@ packages using:
 
 --> setup admin panel folder, Implemented react router dom, Navbar etc.
 --> added google fonts for the text
---> 
+--> set up react router dom
+-->  working on admin authentication
+    --> finished Login Component with conditional rendering
+    --> working on Admin Authentication
