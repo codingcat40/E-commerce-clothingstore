@@ -43,3 +43,8 @@ packages using:
     --> added local storage for admin login
     --> added logout function
 <!-- working on UI for each route -->
+(timestamp 8 h 13 mins)
+
+--> Working on Add product component
+--> got stuck in critical cloudinary images bug - fixed it
+--> 

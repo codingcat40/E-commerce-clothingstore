@@ -11,9 +11,7 @@ const addProduct = async (req, res) => {
         const image3 = req.files.image3 && req.files.image3[0]
         const image4 = req.files.image4 && req.files.image4[0]
 
-        const images = [image1, image2, image3, image4].filter((item) => {
-                item!==undefined
-        })
+       const images = [image1, image2, image3, image4].filter((item) => item !== undefined);
 
         let imagesUrl = await Promise.all(
             images.map(async (item) => {
@@ -26,7 +24,7 @@ const addProduct = async (req, res) => {
 
 
         // console.log(name, description, price, category, subCategory, sizes, bestseller)
-        // console.log(imagesUrl);
+        console.log(imagesUrl);
         
         const productData = {
             name,
