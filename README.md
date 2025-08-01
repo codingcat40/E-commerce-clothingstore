@@ -47,4 +47,4 @@ packages using:
 
 --> Working on Add product component
 --> got stuck in critical cloudinary images bug - fixed it
---> 
+--> added toast notification in add Items too
