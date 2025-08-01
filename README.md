@@ -33,6 +33,7 @@ packages using:
 
 
 <!-- here I have started working on UI for  Admin panel-->
+<!-- and the CRUD operations for my admin panel -->
 
 --> setup admin panel folder, Implemented react router dom, Navbar etc.
 --> added google fonts for the text
@@ -43,8 +44,14 @@ packages using:
     --> added local storage for admin login
     --> added logout function
 <!-- working on UI for each route -->
-(timestamp 8 h 13 mins)
 
 --> Working on Add product component
 --> got stuck in critical cloudinary images bug - fixed it
 --> added toast notification in add Items too
+
+<!-- working on the product list component -->
+-->  Finished working on List products component, added product remove function
+
+
+
+<!-- Started working on Front end + Backend. to connect the frontend with the backend -->
