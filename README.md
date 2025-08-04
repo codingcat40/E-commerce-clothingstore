@@ -60,3 +60,5 @@ packages using:
 --> finished working on User authentication functionality
 --> finished working on navbar dropdown menu setting up proper navigations
 
+<!-- working on creating an api to add the orders to the cart -->
+--> finished working on cart apis
