@@ -57,4 +57,5 @@ packages using:
 <!-- Started working on Front end + Backend. to connect the frontend with the backend -->
 
 --> rendered the products to the front end in List component
---> 
+--> worked on Login Signup functionality
+-->  
