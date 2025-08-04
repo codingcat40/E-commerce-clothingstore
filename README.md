@@ -57,5 +57,6 @@ packages using:
 <!-- Started working on Front end + Backend. to connect the frontend with the backend -->
 
 --> rendered the products to the front end in List component
---> worked on Login Signup functionality
--->  
+--> finished working on User authentication functionality
+--> finished working on navbar dropdown menu setting up proper navigations
+
