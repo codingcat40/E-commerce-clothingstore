@@ -64,4 +64,5 @@ packages using:
 --> finished working on cart apis
 --> finished working on cart api integration
 -->  finished working on place order functionality
+--> orders page in front end
 
