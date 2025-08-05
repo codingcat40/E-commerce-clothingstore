@@ -66,3 +66,6 @@ packages using:
 -->  finished working on place order functionality
 --> orders page in front end
 
+
+<!-- working on admin panel -->
+-->  rendering the user orders in the admin panel
