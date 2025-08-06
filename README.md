@@ -68,4 +68,7 @@ packages using:
 
 
 <!-- working on admin panel -->
--->  rendering the user orders in the admin panel
+-->  finished rendering the user orders in the admin panel
+-->  order status update
+--> stripe payment gateway integration
+ 
