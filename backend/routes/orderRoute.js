@@ -2,7 +2,7 @@ import express from 'express'
 
 import { placeOrder, placeOrderRazorpay, placeOrderStripe, allOrders, updateStatus, userOrders, verifyStripe } from '../controllers/orderController.js'
 import adminAuth from '../middleware/adminauth.js'
-import authUser from '../middleware/Auth.js'
+import authUser from '../middleware/auth.js'
 
 const orderRouter = express.Router()
 
